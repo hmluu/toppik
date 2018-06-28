@@ -2,6 +2,6 @@ body {
   font-size: 2em;
 }
 
-#options {
-  
+ul li:hover, ul li:focus {
+ color:#ED5C07;
 }
